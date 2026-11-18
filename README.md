@@ -1,4 +1,5 @@
 # DepGuard
+<<<<<<< HEAD
 
 DepGuard is an evidence-first dependency risk analyzer for Python projects. It
 parses `requirements.txt`, queries the OSV vulnerability database for exact
@@ -135,3 +136,6 @@ depend on the live OSV service.
 - The dashboard's total scan count is for the current browser session.
 - Authentication, multi-user storage, transitive dependency resolution, and
   GitHub/LLM integrations are not implemented.
+=======
+Intelligent Dependency Risk &amp; Impact Analyzer
+>>>>>>> 877d3ebe8b70f030813522efdd30c9b8b6f5ce04
